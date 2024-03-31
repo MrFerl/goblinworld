@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/![Image Description.md",
+                "file": "Obsidian Vault/Objects/Asimi coin.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Obsidian Vault/![Image Description.md",
+            "file": "Obsidian Vault/Objects/Asimi coin.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Obsidian Vault/![Image Description.md",
+            "file": "Obsidian Vault/Objects/Asimi coin.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Obsidian Vault/![Image Description.md"
+            "file": "Obsidian Vault/Objects/Asimi coin.md"
           }
         }
       }
@@ -146,8 +146,11 @@
   },
   "active": "6665dc7dda48a3ee",
   "lastOpenFiles": [
+    "Obsidian Vault/Objects/Spiced silver.md",
     "Obsidian Vault/Races/Feral goblin.md",
     "Obsidian Vault/Races/Docile goblin.md",
+    "Obsidian Vault/Races/Goblin.md",
+    "Obsidian Vault/![Image Description.md",
     "Events/Great Butchering of Tholosia.md",
     "Docile goblins.md",
     "Events/Butchering of Tholosia.md",
@@ -155,13 +158,11 @@
     "Butchering of Tholosia",
     "Events/Butchering of Tholosia",
     "Events",
-    "Obsidian Vault/Races/Goblin.md",
     "Obsidian Vault/Untitled.canvas",
     "Obsidian Vault/Goblin World.md",
     "Obsidian Vault/Untitled/Untitled.md",
     "Obsidian Vault/Untitled",
     "Obsidian Vault/Races",
-    "Obsidian Vault/Objects/Spiced silver.md",
     "Obsidian Vault/Objects/Asimi coin.md",
     "Obsidian Vault/Objects",
     "Obsidian Vault/Nation/Asimi (City-state).md",
@@ -171,7 +172,6 @@
     "Obsidian Vault/Behaviour/Goblin ownership.md",
     "Obsidian Vault/Behaviour",
     "Obsidian Vault/Backdrop.md",
-    "Obsidian Vault/Asimi.md",
-    "Obsidian Vault/![Image Description.md"
+    "Obsidian Vault/Asimi.md"
   ]
 }
