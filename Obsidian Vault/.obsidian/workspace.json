@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Races/Docile goblin.md",
+                "file": "Objects/Asimi coin.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Races/Docile goblin.md",
+                "file": "Objects/Asimi coin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Races/Docile goblin.md",
+                "file": "Objects/Asimi coin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Races/Docile goblin.md"
+                "file": "Objects/Asimi coin.md"
               }
             }
           }
@@ -223,6 +223,7 @@
   "lastOpenFiles": [
     "Objects/Spiced silver.md",
     "Races/Docile goblin.md",
+    "Objects/Asimi coin.md",
     "Nation/Asimi (City-state).md",
     "Races/Feral goblin.md",
     "Races/Goblin.md",
@@ -236,7 +237,6 @@
     "Objects",
     "Nation",
     "Races",
-    "Objects/Asimi coin.md",
     "Docile Goblins.canvas",
     "Untitled/Untitled.md",
     "![Image Description.md",
