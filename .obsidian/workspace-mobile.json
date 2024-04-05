@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Objects/Asimi coin.md",
+                "file": "Obsidian Vault/Races/Docile goblin.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fe778d0b4c8abb67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian Vault/Races/Docile goblin.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Obsidian Vault/Objects/Asimi coin.md",
+            "file": "Obsidian Vault/Races/Docile goblin.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Obsidian Vault/Objects/Asimi coin.md",
+            "file": "Obsidian Vault/Races/Docile goblin.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Obsidian Vault/Objects/Asimi coin.md"
+            "file": "Obsidian Vault/Races/Docile goblin.md"
           }
         }
       }
@@ -144,34 +156,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6665dc7dda48a3ee",
+  "active": "fe778d0b4c8abb67",
   "lastOpenFiles": [
+    "README.md",
+    "Obsidian Vault/Nation/Asimi (City-state).md",
+    "Obsidian Vault/Backdrop.md",
+    "Obsidian Vault/Races/Docile goblin.md",
     "Obsidian Vault/Objects/Spiced silver.md",
     "Obsidian Vault/Races/Feral goblin.md",
-    "Obsidian Vault/Races/Docile goblin.md",
+    "Obsidian Vault/Events/Great Butchering of Tholosia.md",
+    "Obsidian Vault/Ages.md",
+    "Obsidian Vault/Behaviour/Goblin ownership.md",
+    "Obsidian Vault/Locations/Gyzer.md",
+    "Obsidian Vault/Objects/Asimi coin.md",
     "Obsidian Vault/Races/Goblin.md",
     "Obsidian Vault/![Image Description.md",
-    "Events/Great Butchering of Tholosia.md",
     "Docile goblins.md",
     "Events/Butchering of Tholosia.md",
     "Untitled",
     "Butchering of Tholosia",
     "Events/Butchering of Tholosia",
-    "Events",
+    "Obsidian Vault/Events",
     "Obsidian Vault/Untitled.canvas",
     "Obsidian Vault/Goblin World.md",
     "Obsidian Vault/Untitled/Untitled.md",
     "Obsidian Vault/Untitled",
     "Obsidian Vault/Races",
-    "Obsidian Vault/Objects/Asimi coin.md",
     "Obsidian Vault/Objects",
-    "Obsidian Vault/Nation/Asimi (City-state).md",
     "Obsidian Vault/Nation",
-    "Obsidian Vault/Locations/Gyzer.md",
     "Obsidian Vault/Locations",
-    "Obsidian Vault/Behaviour/Goblin ownership.md",
     "Obsidian Vault/Behaviour",
-    "Obsidian Vault/Backdrop.md",
     "Obsidian Vault/Asimi.md"
   ]
 }

@@ -70,3 +70,11 @@ The details are still being figured out, but Lydorous would eventually found the
 ## Personality 
 
 Docile goblins tended to be dazed with a perpetual brain fog that made it difficult for them to follow overly complex instructions. They were, however, eager to please if kept on a steady dose of spiced silver and would carry all instructions as best as they could understand. Even if their interpretation is wrong or doesn't make logical sense. Even if asked to carry out violence, they will do it happily, but the act will turn them feral. They look pertude most of the time but will sometimes lend a smile to their owners. 
+
+# Babies
+
+When a baby goblin is born the mother is usually allowed to take a break for one month to look after it. Usually the mother will feed them spiced silver young thus the generational cycle of spiced silver addiction continues. Presumably if a goblin is never exposed to spiced silver in this way they may never suffer the effects of brain fog nor will they go feral. Typically the baby is then given the "matron goblin". 
+
+## Eunuch Goblin
+
+The Asimi city state maintained a mastery over goblins with full awareness that they are both their greatest assets but also their greatest threat. They trade them into slavery to other nations but only male eunuchs. If they traded away a goblin capable of breeding, other nations could do goblin breeding which would both devalue them as an economic resource but also increases the possibility that they would have to deal with a feral outbreak from another land. 
