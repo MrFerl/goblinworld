@@ -28,6 +28,8 @@ The docile goblins were notable for being majorly under the control of the [[Asi
 > 2. [[#History]]
 > 	1. [[#Tholosian Origins]]
 > 3. [[#Personality]]
+> 4. [[#Babies]]
+> 5. [[#Eunuch Goblin]]
 
 
 ## Appearance
@@ -59,7 +61,7 @@ Some owners took great care of their goblins, and these would maintain their sil
 
 ###### Tholosian Origins
 
-Goblins descend from Tholosian humans. The Tholosia was a fairly advance civilization for its age due to the stockpiles of mana they found deep beneath this earth. Mana was used to power their incredible machinery that practically automated manual labor, and it was able to make fertile soil in a land that wheat could not group. Unfortunately, mana was also an hallucinogenic, and the kingdom had a severe trouble with addiction. This detail can be expanded upon later. But over the years the mana stores depleted, and the Tholosian working class who were heavily entrenched in this drug, went wild and feral. They went on a blood hungry rebellion, overthrowing the king, but it didn't stop their, for their bloodlust could not be contained, they went on a rampage known as the [[Great Butchering of Tholosia]]. A wizard emerged to solve this problem, and his solution was to place a spell on the mountain of Gyzer, to turn all of its treasures and all of its mines into [[Spiced silver]]. The cannibals were drawn to the Gyzer mountains, and then sealed away, where over centuries they transformed into the Docile goblins we know today. 
+Goblins descend from Tholosian humans. The Tholosia was a fairly advance civilization for its age due to the stockpiles of mana they found deep beneath this earth. Mana was used to power their incredible machinery that practically automated manual labor, and it was able to make fertile soil in a land that wheat could not grow. Unfortunately, mana was also an hallucinogenic, and the kingdom had a severe trouble with addiction. This detail can be expanded upon later. But over the years the mana stores depleted, and the Tholosian working class who were heavily entrenched in this drug, went wild and feral. They went on a blood hungry rebellion, overthrowing the king, but it didn't stop their, for their bloodlust could not be contained, they went on a rampage known as the [[Great Butchering of Tholosia]]. A wizard emerged to solve this problem, and his solution was to place a spell on the mountain of Gyzer, to turn all of its treasures and all of its mines into [[Spiced silver]]. The cannibals were drawn to the Gyzer mountains, and then sealed away, where over centuries they transformed into the Docile goblins we know today. 
 
 ###### Discovery by the Asimi
 
@@ -73,7 +75,7 @@ Docile goblins tended to be dazed with a perpetual brain fog that made it diffic
 
 # Babies
 
-When a baby goblin is born the mother is usually allowed to take a break for one month to look after it. Usually the mother will feed them spiced silver young thus the generational cycle of spiced silver addiction continues. Presumably if a goblin is never exposed to spiced silver in this way they may never suffer the effects of brain fog nor will they go feral. Typically the baby is then given the "matron goblin". 
+When a baby goblin is born the mother is usually allowed to take a break for one month to look after it. Usually the mother will feed them spiced silver young thus the generational cycle of spiced silver addiction continues. Presumably if a goblin is never exposed to spiced silver in this way they may never suffer the effects of brain fog nor will they go feral. Typically the baby is then given to the "matron goblin" where they are cared for until maturity.
 
 ## Eunuch Goblin
 

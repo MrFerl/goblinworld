@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Races/Docile goblin.md",
+                "file": "Wizard.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "79db676ef7c849d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wizard Consciousness.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Obsidian Vault/Races/Docile goblin.md",
+            "file": "Wizard Consciousness.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Obsidian Vault/Races/Docile goblin.md",
+            "file": "Wizard Consciousness.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +151,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Obsidian Vault/Races/Docile goblin.md"
+            "file": "Wizard Consciousness.md"
           }
         }
       }
@@ -156,19 +168,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fe778d0b4c8abb67",
+  "active": "79db676ef7c849d7",
   "lastOpenFiles": [
-    "README.md",
-    "Obsidian Vault/Nation/Asimi (City-state).md",
-    "Obsidian Vault/Backdrop.md",
-    "Obsidian Vault/Races/Docile goblin.md",
-    "Obsidian Vault/Objects/Spiced silver.md",
-    "Obsidian Vault/Races/Feral goblin.md",
-    "Obsidian Vault/Events/Great Butchering of Tholosia.md",
+    "Wizard.md",
+    "Wizard Consciousness.md",
     "Obsidian Vault/Ages.md",
+    "Obsidian Vault/Nation/Asimi (City-state).md",
+    "Obsidian Vault/Objects/Asimi coin.md",
+    "Obsidian Vault/Objects/Spiced silver.md",
+    "Obsidian Vault/Races/Docile goblin.md",
+    "Obsidian Vault/Races/Feral goblin.md",
+    "Eunuch Goblin.md",
+    "Babies.md",
+    "README.md",
+    "Obsidian Vault/Backdrop.md",
+    "Obsidian Vault/Events/Great Butchering of Tholosia.md",
     "Obsidian Vault/Behaviour/Goblin ownership.md",
     "Obsidian Vault/Locations/Gyzer.md",
-    "Obsidian Vault/Objects/Asimi coin.md",
     "Obsidian Vault/Races/Goblin.md",
     "Obsidian Vault/![Image Description.md",
     "Docile goblins.md",
